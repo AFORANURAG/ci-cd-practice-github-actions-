@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AFORANURAG/ci-cd-practice-github-actions-/issues"
   },
-  "homepage": "https://github.com/AFORANURAG/ci-cd-practice-github-actions-#readme"
+  "homepage": "https://github.com/AFORANURAG/ci-cd-practice-github-actions-#readme",
+  "dependencies": {
+    "random-number": "^0.0.9"
+  }
 }
